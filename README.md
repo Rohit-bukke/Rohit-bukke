@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1949e6,100:0a2a6b&height=220&section=header&text=Bukke%20Rohith%20Marthanda%20Naik&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=ML%20/%20AI%20Intern%20Aspirant%20%7C%20Agentic%20AI%2C%20LLMs%20%26%20RAG%20Systems&descAlignY=55&descSize=18)](https://github.com/Rohit-bukke)
+[![Header]([https://capsule-render.vercel.app/api?type=waving&color=0:1949e6,100:0a2a6b&height=220&section=header&text=Bukke%20Rohith%20Marthanda%20Naik&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=ML%20/%20AI%20Intern%20Aspirant%20%7C%20Agentic%20AI%2C%20LLMs%20%26%20RAG%20Systems&descAlignY=55&descSize=18)](https://github.com/Rohit-bukke](https://capsule-render.vercel.app/api?type=waving&color=0:1949e6,100:0a2a6b&height=220&section=header&text=Bukke%20Rohith%20Marthanda%20Naik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20AI%20Intern%20Aspirant%20-%20Agentic%20AI%20LLMs%20and%20RAG%20Systems&descAlignY=58&descSize=16))
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚀_ML%2FAI_Intern_Aspirant-1949e6?style=for-the-badge&logoColor=white" />
