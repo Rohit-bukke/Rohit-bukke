@@ -1,5 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1949e6,100:0a2a6b&height=220&section=header&text=Bukke%20Rohith%20Marthanda%20Naik&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20AI%20Intern%20Aspirant%20-%20Agentic%20AI%20LLMs%20and%20RAG%20Systems&descAlignY=58&descSize=16)
 
+<!-- Text fallback in case the banner image above fails to load -->
+<h1 align="center">Bukke Rohith Marthanda Naik</h1>
+<h3 align="center">ML / AI Intern Aspirant | Agentic AI, LLMs & RAG Systems</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/🚀_ML%2FAI_Intern_Aspirant-1949e6?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/🤖_Agentic_AI_%26_RAG-1949e6?style=for-the-badge&logoColor=white" />
@@ -7,10 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rohit-bukke?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/Rohit-bukke?color=1949e6&labelColor=0D1117&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
-  <a href="https://github.com/Rohit-bukke?tab=repositories"><img src="https://custom-icon-badges.demolab.com/badge/Repos-35+-1949e6?style=for-the-badge&logo=repo&logoColor=white&labelColor=0D1117" /></a>
-  <a href="https://github.com/Rohit-bukke"><img src="https://custom-icon-badges.demolab.com/github/stars/Rohit-bukke?color=1949e6&style=for-the-badge&labelColor=0D1117&logo=star" /></a>
-  <a href="https://komarev.com/ghpvc/?username=Rohit-bukke"><img src="https://komarev.com/ghpvc/?username=Rohit-bukke&style=for-the-badge&color=1949e6&labelColor=0D1117" /></a>
+  <img src="https://img.shields.io/github/followers/Rohit-bukke?label=Followers&style=for-the-badge&color=1949e6&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Repos-35%2B-1949e6?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/Rohit-bukke?label=Stars&style=for-the-badge&color=1949e6&labelColor=0D1117" />
 </p>
 
 ---
@@ -41,17 +44,17 @@ const rohith = {
 ## 🧠 AI / ML & Agentic Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/🧠-RAG_Systems-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/🔗-LangChain-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/🕸️-LangGraph-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/🔍-Semantic_Search-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/🧬-Embeddings-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Systems-1949e6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semantic_Search-1949e6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings-1949e6?style=for-the-badge&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/🗄️-Qdrant-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/🗄️-ChromaDB-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/🗄️-PGVector-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/🤖-Agentic_AI-0D1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/⚛️-Quantum_ML-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-1949e6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PGVector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_AI-0a2a6b?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quantum_ML-6f42c1?style=for-the-badge&logo=qiskit&logoColor=white" />
 </p>
 
 ---
@@ -121,15 +124,6 @@ const rohith = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohit-bukke&show_icons=true&theme=tokyonight&hide_border=true&title_color=1949e6&icon_color=1949e6" />
-  <img src="https://streak-stats.demolab.com/?user=Rohit-bukke&theme=tokyonight&hide_border=true&background=0D1117&ring=1949e6&fire=1949e6" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
@@ -140,7 +134,5 @@ const rohith = {
 </p>
 
 <p align="center"><em>Open to ML / AI Engineering internships — always happy to talk RAG, LLMs, agents, or quantum ML. 👋</em></p>
-
-![snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a2a6b,100:1949e6&height=100&section=footer)](https://github.com/Rohit-bukke)
