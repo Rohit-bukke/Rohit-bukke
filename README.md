@@ -125,7 +125,7 @@ const rohith = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohit-bukke&show_icons=true&theme=tokyonight&hide_border=true&title_color=1949e6&icon_color=1949e6" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-bukke&theme=tokyonight&hide_border=true&background=0D1117&ring=1949e6&fire=1949e6" />
+  <img src="https://streak-stats.demolab.com/?user=Rohit-bukke&theme=tokyonight&hide_border=true&background=0D1117&ring=1949e6&fire=1949e6" />
 </p>
 
 ---
