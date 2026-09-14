@@ -20,23 +20,23 @@
 
 ## 👋 About Me
 
-```javascript
-const rohith = {
-    pronouns: "He" | "Him",
-    role: "ML / AI Intern Aspirant",
-    focus: "Agentic AI, LLMs & RAG Systems",
-    education: "B.Tech CSE @ RGUKT RK Valley (CGPA: 8.48/10)",
-    location: "Madanapalle, Andhra Pradesh, India 🇮🇳",
+```python
+rohith = {
+    "pronouns": "He / Him",
+    "role": "ML / AI Intern Aspirant",
+    "focus": "Agentic AI, LLMs & RAG Systems",
+    "education": "B.Tech CSE @ RGUKT RK Valley (CGPA: 8.48/10)",
+    "location": "Madanapalle, Andhra Pradesh, India 🇮🇳",
 
-    currentlyBuilding: {
-        ragPipelines: "Qdrant + LLM Reranking",
-        voiceAgents: "Whisper + LangChain + Ollama",
-        quantumML: "Variational Quantum Classifiers",
-        backend: "FastAPI + WebSockets"
+    "currently_building": {
+        "rag_pipelines": "Qdrant + LLM Reranking",
+        "voice_agents": "Whisper + LangChain + Ollama",
+        "quantum_ml": "Variational Quantum Classifiers",
+        "backend": "FastAPI + WebSockets"
     },
 
-    funFact: "Won a Quantum Valley Hackathon by mixing qubits with cybersecurity 🏆"
-};
+    "fun_fact": "Won a Quantum Valley Hackathon by mixing qubits with cybersecurity 🏆"
+}
 ```
 
 ---
